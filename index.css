@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+}
+body {
+    color: #fff;
+    height: 100%;
+    margin: 0;
+    background: linear-gradient(45deg, red, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
